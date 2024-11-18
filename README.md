@@ -33,8 +33,10 @@ To get a Microsoft Bing API key, follow these steps:
 2) Navigate to the Azure Portal: Once you have an Azure account, log in to the Azure Portal.
 3) Search for Bing Services: In the search box, type "Bing" and select the Bing service you're interested in (e.g., Bing Search or Bing Custom Search).
 4) Create a Resource: Click on "Create a resource" and follow the prompts to set up your Bing service. You'll need to provide a name for your resource and select a subscription (you can use the free trial if you're eligible
-5)Retrieve Your API Key: After creating the resource, navigate to the "Keys and Endpoint" section. Here, you'll find your API key. Copy this key and keep it secure.
-6)Use the API Key: You can now use this API key in your applications to access Bing's search services.
+5) Retrieve Your API Key: After creating the resource, navigate to the "Keys and Endpoint" section. Here, you'll find your API key. Copy this key and keep it secure.
+6) Use the API Key: You can now use this API key in your applications to access Bing's search services.
 
+use chatgpt key as OPEN_API_KEY
+Microsoft bing key as SEARCH_API_KEY
 # Video : Working of the Project
 https://drive.google.com/file/d/18M9HuX87M86IS_oimMastV5bcTrmoG1U/view?usp=drivesdk
