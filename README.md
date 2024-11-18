@@ -18,7 +18,7 @@ in terminal in Visual Studio Code you could run the code using the command
 here app.py is the file name and make sure you have internet connection for this to work out smoothly as the project uses ChatGPT and Microsoft Bing Integrations which are cloud based..
 # Third party APIs 
 ChatGPT(OpenAI) API integration for parsing results and Microsoft Bing for performing search
-# How to ChatGPT OpenAI API Key
+# How to get ChatGPT OpenAI API Key
 To get a ChatGPT API key from OpenAI, follow these steps:
 1) Sign Up for an Account: Go to the OpenAI platform at platform.openai.com and sign up using your email address or an existing Google, Microsoft, or Apple account.
 2) Verify Your Email: After signing up, verify your email address to activate your account.
